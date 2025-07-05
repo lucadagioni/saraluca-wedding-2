@@ -2,6 +2,7 @@
   "name": "saraluca-wedding-test",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://lucadagioni.github.io/saraluca-wedding-2",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -12,9 +13,9 @@
     "@tailwindcss/vite": "^4.1.2"
   },
   "devDependencies": {
-    "autoprefixer": "^10.4.19",
-    "postcss": "^8.4.38",
-    "tailwindcss": "^3.4.1",
-    "vite": "^5.2.2"
+    "autoprefixer": "^10.4.14",
+    "postcss": "^8.4.24",
+    "tailwindcss": "^3.3.2",
+    "vite": "^4.4.5"
   }
 }
